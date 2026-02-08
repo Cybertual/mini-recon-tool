@@ -1,10 +1,10 @@
 
-Mini Recon Tool:
+**Mini Recon Tool**:
 
 A beginner-friendly Python tool for performing basic web reconnaissance using the requests library.
 Built while learning HTTP fundamentals and Python automation.
 
-Features:
+**Features**:
 
 1. Fetches HTTP status code
 
@@ -24,7 +24,7 @@ Features:
 
 6. Normalizes user input URLs
 
-Requirements:
+**Requirements**:
 1. Python 3.x
   
 2. requests library
@@ -32,7 +32,7 @@ Requirements:
 Install dependency:
 1. pip install requests
    
-Usage:
+**Usage**:
 
 python minirecon.py
 
@@ -40,13 +40,13 @@ Then enter a full URL such as:
 
 https://httpbin.org
 
-Example Output:
+**Example Output**:
 ![Tool Output](output.png)
 
 
-Learning Goals:
+**Learning Goals**:
 
-This project was built to practice:
+**This project was built to practice**:
 
 1. Working with the requests library
 
@@ -57,7 +57,7 @@ This project was built to practice:
 4. Basic recon workflow used in cybersecurity
 
 
-Future Improvements:
+**Future Improvements**:
 
 1. Add path fuzzing module
 
@@ -68,4 +68,4 @@ Future Improvements:
 4. Save results to a report
 
 
-Built for learning and experimentation in web security.
+*Built for learning and experimentation in web security*.
